@@ -233,6 +233,21 @@ print(me.motto())
 
 </details>
 
+<details>
+  <summary>🏢 <strong><a href="https://www.vebbox.com/">VEBBOX Software Solutions</a> — Data Science Intern</strong> &nbsp;|&nbsp; Jun 2026 – Jul 2026 &nbsp;|&nbsp; On-Site</summary>
+  <br/>
+  > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  > ![Data Science](https://img.shields.io/badge/Data%20Science-150458?style=flat-square&logo=pandas&logoColor=white)
+  > ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+  > ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+ 
+  - 📊 Applied **data science techniques** including data cleaning, exploratory data analysis, and feature engineering on real-world datasets.
+  - 🤖 Built and evaluated **machine learning models** to extract actionable insights and support data-driven business decisions.
+  - 📈 Worked with **Python, Pandas, NumPy, and scikit-learn** to develop end-to-end data pipelines during the internship.
+  - 🧠 Strengthened practical understanding of the **full data science workflow** — from raw data to model output — in a professional environment.
+</details>
+
+
 ---
 
 ## 🎓 Education
