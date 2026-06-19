@@ -14,7 +14,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://lokesh-b-0813.github.io/LokeshB-Portfolio/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/LOKESH_B0813/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/lokesh16215)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/Lokesh16215)
+[![HackTheBox]([https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/Lokesh16215](https://profile.hackthebox.com/profile/019d28be-e645-73e4-80a3-e2e0fa3eaeea))
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lokesh16215@gmail.com)
 
 </div>
