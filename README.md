@@ -2,35 +2,38 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Lokesh+B+%F0%9F%91%8B;AI+%26+Data+Science+Undergrad+%F0%9F%A4%96;Machine+Learning+%7C+Web+Dev+%7C+Cloud+%F0%9F%9A%80;Building+Tomorrow's+Solutions+Today+%F0%9F%92%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Lokesh+B+%F0%9F%91%8B;AI+%26+Data+Science+Undergrad+%F0%9F%A4%96;Machine+Learning+%7C+Web+Dev+%7C+Cloud+%F0%9F%9A%80;Hacker+%7C+Builder+%7C+Problem+Solver+%F0%9F%94%A5;Building+Tomorrow's+Solutions+Today+%F0%9F%92%A1" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LOKESH-B-0813&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
-  <a href="https://www.linkedin.com/in/lokesh-b-801148370">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:lokesh16215@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://img.shields.io/badge/Location-Kumbakonam%2C%20TN-38BDAE?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=LOKESH-B-0813&label=Profile+Views&color=70a5fd&style=flat-square)](https://github.com/LOKESH-B-0813)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-b-801148370/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://lokesh-b-0813.github.io/LokeshB-Portfolio/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/LOKESH_B0813/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/lokesh16215)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/Lokesh16215)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lokesh16215@gmail.com)
+[![Location](https://img.shields.io/badge/Kumbakonam%2C%20TN-38BDAE?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Kumbakonam)
+
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class LokeshB:
     def __init__(self):
         self.name         = "Lokesh B"
         self.location     = "Kumbakonam, Tamil Nadu, India"
-        self.degree       = "B.Tech in AI & Data Science @ VSB Engineering College"
+        self.degree       = "B.Tech in AI & Data Science"
+        self.college      = "VSB Engineering College, Karur"
         self.cgpa         = "7.32 / 10 (1st Year)"
 
         self.stack = [
@@ -48,12 +51,16 @@ class LokeshB:
 
         self.tools = [
             "VS Code", "Google Colab",
-            "MySQL Workbench", "MongoDB Compass", "GitHub"
+            "MySQL Workbench", "MongoDB Compass"
+        ]
+
+        self.platforms = [
+            "LeetCode", "HackerRank", "HackTheBox"
         ]
 
         self.fun_fact = (
-            "I'm building a startup that fuses AI "
-            "with automation to solve real business problems 🚀"
+            "Building an AI + automation startup "
+            "to solve real business problems 🚀"
         )
 
     def motto(self):
@@ -100,6 +107,12 @@ print(me.motto())
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+**Competitive Platforms**
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
+
 ---
 
 ## 📊 GitHub Stats
@@ -134,7 +147,15 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LOKESH-B-0813&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=LOKESH-B-0813&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/LOKESH_B0813?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="LeetCode Stats"/>
 </div>
 
 ---
@@ -147,7 +168,7 @@ print(me.motto())
 
   > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   > ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-  > ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white)
+  > ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
   > ![Dashboard](https://img.shields.io/badge/Dashboard-38BDAE?style=flat-square&logo=plotly&logoColor=white)
 
   - 🚲 **Project: RideWise** — Built a machine learning model to predict **bike rental demand** for a sharing platform, collaborating in a team environment.
@@ -195,9 +216,9 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |--------|-------|------------|
-| 🚲 **[RideWise – Bike Rental Demand Prediction](https://github.com/LOKESH-B-0813)** | Python · Pandas · ML · Dashboard | Predicts rental demand using ML; features interactive visualisation of trend patterns; built as part of Infosys Springboard internship |
-| 🌐 **[Responsive Web Projects](https://github.com/LOKESH-B-0813)** | HTML · CSS · Python | Built during VaultofCodes internship; cross-device compatible UI; deployed to live web hosting environments |
-| 🤖 **[AI Startup Prototype](https://github.com/LOKESH-B-0813)** | Python · AI · Automation | Early-stage prototype integrating AI-driven automation for business digital solutions; active R&D and business strategy development |
+| 🚲 **[RideWise – Bike Rental Demand Prediction](https://github.com/LOKESH-B-0813)** | Python · Pandas · ML · Dashboard | ML model predicting rental demand with interactive trend visualisation; built during Infosys Springboard internship |
+| 🌐 **[Personal Portfolio](https://lokesh-b-0813.github.io/LokeshB-Portfolio/)** | HTML · CSS · JavaScript | Live portfolio showcasing projects, skills, and experience; fully responsive and deployed on GitHub Pages |
+| 🤖 **[AI Startup Prototype](https://github.com/LOKESH-B-0813)** | Python · AI · Automation | Early-stage AI automation prototype targeting business digital efficiency; active R&D and strategy development |
 
 </div>
 
@@ -214,7 +235,8 @@ print(me.motto())
 | 🤖 | **Machine Learning Fundamentals** | Analytics Vidhya & NVIDIA — Certified |
 | 🌐 | **Web Development Certification** | FreeCodeCamp & Udemy — Certified |
 | ☁️ | **Cloud Computing Foundations** | Infosys Springboard — Certified |
-| 📡 | **Computer Networking** | Self-Learning (Ongoing) |
+| 🟢 | **HackerRank Problem Solver** | [hakerrank.com/lokesh16215](https://www.hackerrank.com/profile/lokesh16215) |
+| 🟩 | **HackTheBox Active Member** | [@Lokesh16215](https://profile.hackthebox.com/Lokesh16215) — Cybersecurity challenges |
 | 🏅 | **10+ Technical Courses Completed** | Infosys Springboard — Web Dev, ML, Cloud, Communication |
 | 🌟 | **Multi-Platform Learner** | FreeCodeCamp · Udemy · NVIDIA · Unstop · LinkedIn Learning |
 
@@ -244,6 +266,7 @@ print(me.motto())
 📡 Computer Networking  →  TCP/IP · DNS · HTTP · Network Security · Protocols
 🌐 Full-Stack Web Dev   →  Flask · FastAPI · REST APIs · JavaScript
 🗄️  Databases            →  Advanced MySQL · MongoDB Aggregation · Query Optimisation
+🔐 Cybersecurity        →  HackTheBox Challenges · Ethical Hacking Fundamentals
 🚀 Startup Building     →  Product Design · Business Strategy · AI Integration
 ```
 
@@ -252,25 +275,24 @@ print(me.motto())
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lokesh-b-801148370">
-    <img src="https://img.shields.io/badge/LinkedIn-Lokesh%20B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:lokesh16215@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lokesh16215%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/LOKESH_B0813/">
-    <img src="https://img.shields.io/badge/LeetCode-LOKESH__B0813-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Kumbakonam%2C%20Tamil%20Nadu-38BDAE?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lokesh%20B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-b-801148370/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://lokesh-b-0813.github.io/LokeshB-Portfolio/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-LOKESH__B0813-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/LOKESH_B0813/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-lokesh16215-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/lokesh16215)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Lokesh16215-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/Lokesh16215)
+[![Gmail](https://img.shields.io/badge/Gmail-lokesh16215%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokesh16215@gmail.com)
+
 </div>
 
 <br/>
 
 <div align="center">
-  <i>💬 "Learn by building. Build to impact." — Let's connect and build something amazing together!</i>
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc69fea3fbe4f4f/bottom_header.svg" width="100%"/>
+</div>
+
+<div align="center">
+  <i>💬 "Learn by building. Build to impact." — Let's connect and build something amazing together! 🚀</i>
 </div>
 
 <br/>
