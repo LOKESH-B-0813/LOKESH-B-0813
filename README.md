@@ -259,7 +259,7 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |--------|------------|------|-------|
-| 🤖 B.Tech — AI & Data Science | VSB Engineering College, Karur | 2024 – Present | CGPA: 7.32 / 10 (1st Year) |
+| 🤖 B.Tech — AI & Data Science | VSB Engineering College, Karur | 2024 – present | CGPA: 7.17 / 10 (2nd Year) |
 | 📚 Class XII (CBSE) | Maharishi Vidya Mandir, Kumbakonam | Completed | 75% |
 | 📖 Class X (CBSE) | Maharishi Vidya Mandir, Kumbakonam | Completed | 60% |
 
@@ -287,7 +287,7 @@ print(me.motto())
 </div>
 
 <div align="center">
-  <i>💬 "Automate everything. Scale anything. Build to impact." 🚀</i>
+  <i>"Automate everything. Scale anything. Build to impact."</i>
 </div>
 
 <br/>
