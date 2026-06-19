@@ -34,9 +34,10 @@
 
 ## 🧑‍💻 About Me
 
+<!--
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-<details open>
+-->
+<details>
 <summary><b>👨‍💻 Who am I? (click to expand)</b></summary>
 <br/>
 
@@ -148,18 +149,19 @@ print(me.motto())
 
 ---
 
-## 📊 GitHub Stats
-
+## GitHub Stats
+<!-- 
 <div align="center">
   <a href="https://github.com/LOKESH-B-0813">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LOKESH-B-0813&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
+  -->
   <a href="https://github.com/LOKESH-B-0813">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOKESH-B-0813&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
----
+
 
 ## 🔥 Streak Stats
 
@@ -177,12 +179,13 @@ print(me.motto())
 
 ---
 
+<!--
 ## 🧩 LeetCode Stats
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/LOKESH_B0813?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="LeetCode Stats"/>
 </div>
-
+-->
 ---
 
 ## 💼 Work Experience
@@ -259,7 +262,7 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |--------|------------|------|-------|
-| 🤖 B.Tech — AI & Data Science | VSB Engineering College, Karur | 2024 – present | CGPA: 7.17 / 10 (2nd Year) |
+| 🤖 B.Tech — AI & Data Science | VSB Engineering College, Karur | 2024 – present | CGPA: 7.17 / 10 (Up to 3rd Sem) |
 | 📚 Class XII (CBSE) | Maharishi Vidya Mandir, Kumbakonam | Completed | 75% |
 | 📖 Class X (CBSE) | Maharishi Vidya Mandir, Kumbakonam | Completed | 60% |
 
