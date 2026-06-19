@@ -101,15 +101,20 @@ print(me.motto())
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**DevOps & Cloud**
+**DevOps & CI/CD**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Computer Networking](https://img.shields.io/badge/Computer%20Networking-0078D4?style=flat-square&logo=cisco&logoColor=white)
+
+**Cloud ☁️ *(Learning)***
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud Fundamentals](https://img.shields.io/badge/Cloud%20Fundamentals-38BDAE?style=flat-square&logo=icloud&logoColor=white)
 
 **Data Science & ML**
 
@@ -118,6 +123,11 @@ print(me.motto())
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
+**Full-Stack Web**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 **Databases**
 
@@ -225,40 +235,6 @@ print(me.motto())
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|--------|-------|------------|
-| 🚲 **[RideWise – Bike Rental Demand Prediction](https://github.com/LOKESH-B-0813)** | Python · Pandas · ML · Dashboard | ML model predicting bike rental demand with interactive visualisation; built at Infosys Springboard |
-| 🌐 **[Personal Portfolio](https://lokesh-b-0813.github.io/LokeshB-Portfolio/)** | HTML · CSS · JavaScript | Live portfolio showcasing projects, skills, and experience; deployed on GitHub Pages |
-| 🤖 **[AI Startup Prototype](https://github.com/LOKESH-B-0813)** | Python · AI · Cloud · DevOps | AI + DevOps automation prototype targeting business efficiency; active R&D in progress |
-
-</div>
-
----
-
-## 🏅 Achievements & Certifications
-
-<div align="center">
-
-| 🏆 | Achievement | Details |
-|----|-------------|---------|
-| 🐍 | **Python Mastering Program** | Infosys — Certified |
-| 🤖 | **Machine Learning Fundamentals** | Analytics Vidhya & NVIDIA — Certified |
-| 🎓 | **SQL: Data Reporting & Analysis** | LinkedIn Learning — Certified |
-| 🌐 | **Web Development Certification** | FreeCodeCamp & Udemy — Certified |
-| ☁️ | **Cloud Computing Foundations** | Infosys Springboard — Certified |
-| 🟢 | **HackerRank Certified** | [lokesh16215](https://www.hackerrank.com/profile/lokesh16215) |
-| 🟩 | **HackTheBox Active Member** | [@Lokesh16215](https://profile.hackthebox.com/Lokesh16215) — Cybersecurity Challenges |
-| 🏅 | **10+ Technical Courses** | Infosys Springboard — ML, Cloud, DevOps, Communication |
-| 🌟 | **Multi-Platform Learner** | FreeCodeCamp · Udemy · NVIDIA · Unstop · LinkedIn Learning |
-
-</div>
-
----
-
 ## 🎓 Education
 
 <div align="center">
@@ -270,20 +246,6 @@ print(me.motto())
 | 📖 Class X (CBSE) | Maharishi Vidya Mandir, Kumbakonam | Completed | 60% |
 
 </div>
-
----
-
-## 🧠 Currently Learning
-
-```
-🛠️  DevOps              →  CI/CD Pipelines · Docker · GitHub Actions · Jenkins
-☁️  Cloud Engineering   →  AWS · GCP · Serverless · Infrastructure as Code
-🐧 Linux Admin         →  Shell Scripting · System Admin · Networking · Security
-🤖 Data Science        →  Advanced ML · Neural Networks · MLOps · Model Deployment
-🗄️  Databases           →  Advanced MySQL · MongoDB Aggregation · Query Optimisation
-🔐 Cybersecurity       →  HackTheBox Challenges · Ethical Hacking Fundamentals
-🚀 Startup             →  Product Design · Business Strategy · AI + DevOps Integration
-```
 
 ---
 
