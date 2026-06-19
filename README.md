@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lokesh%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Student%20%7C%20ML%20Enthusiast%20%7C%20Web%20Developer&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lokesh%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20Cloud%20Engineer%20%7C%20Data%20Scientist%20%7C%20Linux%20Administrator&descAlignY=62&descSize=14" width="100%"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Lokesh+B+%F0%9F%91%8B;AI+%26+Data+Science+Undergrad+%F0%9F%A4%96;Machine+Learning+%7C+Web+Dev+%7C+Cloud+%F0%9F%9A%80;Hacker+%7C+Builder+%7C+Problem+Solver+%F0%9F%94%A5;Building+Tomorrow's+Solutions+Today+%F0%9F%92%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%F0%9F%9B%A0%EF%B8%8F;Cloud+Engineer+%E2%98%81%EF%B8%8F;Data+Scientist+%F0%9F%A4%96;Linux+Administrator+%F0%9F%90%A7;AI+%26+Data+Science+Undergrad+%F0%9F%8E%93;Building+Tomorrow%27s+Infrastructure+Today+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,14 +10,23 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=LOKESH-B-0813&label=Profile+Views&color=70a5fd&style=flat-square)](https://github.com/LOKESH-B-0813)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-b-801148370/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://lokesh-b-0813.github.io/LokeshB-Portfolio/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/LOKESH_B0813/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/lokesh16215)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/Lokesh16215)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lokesh16215@gmail.com)
-[![Location](https://img.shields.io/badge/Kumbakonam%2C%20TN-38BDAE?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Kumbakonam)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![DevOps](https://img.shields.io/badge/DevOps%20Engineer-0d1117?style=for-the-badge&logo=githubactions&logoColor=70A5FD)
+![Cloud](https://img.shields.io/badge/Cloud%20Engineer-0d1117?style=for-the-badge&logo=googlecloud&logoColor=BF91F3)
+![DataScience](https://img.shields.io/badge/Data%20Scientist-0d1117?style=for-the-badge&logo=python&logoColor=38BDAE)
+![Linux](https://img.shields.io/badge/Linux%20Administrator-0d1117?style=for-the-badge&logo=linux&logoColor=FFA116)
 
 </div>
 
@@ -26,6 +35,10 @@
 ## 🧑‍💻 About Me
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+<details open>
+<summary><b>👨‍💻 Who am I? (click to expand)</b></summary>
+<br/>
 
 ```python
 class LokeshB:
@@ -36,22 +49,24 @@ class LokeshB:
         self.college      = "VSB Engineering College, Karur"
         self.cgpa         = "7.32 / 10 (1st Year)"
 
+        self.roles = [
+            "DevOps Engineer",
+            "Cloud Engineer",
+            "Data Scientist",
+            "Linux Administrator"
+        ]
+
         self.stack = [
-            "Python", "HTML", "CSS",
-            "MySQL", "MongoDB",
-            "Machine Learning", "Cloud Computing"
+            "Python", "Linux", "MySQL", "MongoDB",
+            "Machine Learning", "Cloud Computing",
+            "CI/CD", "Docker", "Networking"
         ]
 
         self.currently_learning = [
-            "Advanced Machine Learning",
-            "Computer Networking",
-            "Cloud Architecture (AWS / GCP)",
-            "Full-Stack Web Development"
-        ]
-
-        self.tools = [
-            "VS Code", "Google Colab",
-            "MySQL Workbench", "MongoDB Compass"
+            "DevOps Pipelines & CI/CD",
+            "AWS / GCP Cloud Architecture",
+            "Linux Administration & Shell Scripting",
+            "Advanced Machine Learning & MLOps"
         ]
 
         self.platforms = [
@@ -64,11 +79,13 @@ class LokeshB:
         )
 
     def motto(self):
-        return "Learn by building. Build to impact. 💡"
+        return "Automate everything. Scale anything. 💡"
 
 me = LokeshB()
 print(me.motto())
 ```
+
+</details>
 
 <br clear="right"/>
 
@@ -76,24 +93,30 @@ print(me.motto())
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages & Scripting**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Frameworks & Libraries**
+**DevOps & Cloud**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Data Science & ML**
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Cloud & DevOps**
-
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Fundamentals-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
 **Databases**
@@ -144,14 +167,6 @@ print(me.motto())
 
 ---
 
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LOKESH-B-0813&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 🧩 LeetCode Stats
 
 <div align="center">
@@ -174,7 +189,7 @@ print(me.motto())
   - 🚲 **Project: RideWise** — Built a machine learning model to predict **bike rental demand** for a sharing platform, collaborating in a team environment.
   - 🧹 Implemented **data preprocessing and feature engineering** pipelines using Python (Pandas, NumPy) to clean and structure raw rental datasets.
   - 📊 Developed an **interactive dashboard** to visualise demand trends and model performance, enabling data-driven decision-making.
-  - 📚 Completed **10+ technical courses** on Infosys Springboard covering Web Development, ML, Cloud, and Communication Skills.
+  - 📚 Completed **10+ technical courses** on Infosys Springboard covering ML, Cloud, DevOps, and Communication Skills.
 
 </details>
 
@@ -185,26 +200,26 @@ print(me.motto())
   > ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   > ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
   > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  > ![UI/UX](https://img.shields.io/badge/UI%2FUX-BF91F3?style=flat-square&logo=figma&logoColor=white)
+  > ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-  - 🌐 Developed and maintained **responsive websites** using HTML, CSS, and Python frameworks over a 1-month intensive internship.
-  - 🎨 Collaborated with the team to **improve UI/UX design** and ensure seamless cross-device compatibility across mobile, tablet, and desktop.
-  - 🚀 Assisted in **website deployment** and gained hands-on exposure to practical web hosting workflows and live environment management.
-  - 🔄 Contributed to version-controlled codebase using **GitHub**, improving team collaboration and code review practices.
+  - 🌐 Developed and maintained **responsive websites** using HTML, CSS, and Python frameworks over a 1-month internship.
+  - 🎨 Improved **UI/UX design** ensuring cross-device compatibility across mobile, tablet, and desktop.
+  - 🚀 Assisted in **website deployment** gaining hands-on exposure to web hosting and live environment management.
+  - 🔄 Contributed to version-controlled codebase using **GitHub**, improving team collaboration practices.
 
 </details>
 
 <details>
-  <summary>🚀 <strong>Entrepreneurial Work — AI Startup (In Progress)</strong> &nbsp;|&nbsp; 2025 – Present &nbsp;|&nbsp; Kumbakonam, TN</summary>
+  <summary>🚀 <strong>AI Startup — Founder (In Progress)</strong> &nbsp;|&nbsp; 2025 – Present &nbsp;|&nbsp; Kumbakonam, TN</summary>
   <br/>
 
   > ![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=flat-square&logo=openai&logoColor=white)
-  > ![Automation](https://img.shields.io/badge/Automation-70A5FD?style=flat-square&logo=zapier&logoColor=white)
-  > ![Business Strategy](https://img.shields.io/badge/Business%20Strategy-38BDAE?style=flat-square&logo=notion&logoColor=white)
+  > ![DevOps](https://img.shields.io/badge/DevOps-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+  > ![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-  - 💡 Ideating and prototyping a **startup integrating AI & automation** to develop digital solutions that improve business efficiency.
-  - 📋 Conducting **market research**, creating prototypes, and developing a go-to-market business strategy for launch readiness.
-  - 🔭 Exploring intersections of **machine learning, web tech, and process automation** to identify high-impact product opportunities.
+  - 💡 Building a startup integrating **AI, DevOps & automation** to develop digital solutions that improve business efficiency.
+  - 📋 Conducting **market research**, creating prototypes, and developing a go-to-market strategy for launch readiness.
+  - 🔭 Exploring **MLOps, cloud pipelines, and process automation** to identify high-impact product opportunities.
 
 </details>
 
@@ -216,9 +231,9 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |--------|-------|------------|
-| 🚲 **[RideWise – Bike Rental Demand Prediction](https://github.com/LOKESH-B-0813)** | Python · Pandas · ML · Dashboard | ML model predicting rental demand with interactive trend visualisation; built during Infosys Springboard internship |
-| 🌐 **[Personal Portfolio](https://lokesh-b-0813.github.io/LokeshB-Portfolio/)** | HTML · CSS · JavaScript | Live portfolio showcasing projects, skills, and experience; fully responsive and deployed on GitHub Pages |
-| 🤖 **[AI Startup Prototype](https://github.com/LOKESH-B-0813)** | Python · AI · Automation | Early-stage AI automation prototype targeting business digital efficiency; active R&D and strategy development |
+| 🚲 **[RideWise – Bike Rental Demand Prediction](https://github.com/LOKESH-B-0813)** | Python · Pandas · ML · Dashboard | ML model predicting bike rental demand with interactive visualisation; built at Infosys Springboard |
+| 🌐 **[Personal Portfolio](https://lokesh-b-0813.github.io/LokeshB-Portfolio/)** | HTML · CSS · JavaScript | Live portfolio showcasing projects, skills, and experience; deployed on GitHub Pages |
+| 🤖 **[AI Startup Prototype](https://github.com/LOKESH-B-0813)** | Python · AI · Cloud · DevOps | AI + DevOps automation prototype targeting business efficiency; active R&D in progress |
 
 </div>
 
@@ -230,14 +245,14 @@ print(me.motto())
 
 | 🏆 | Achievement | Details |
 |----|-------------|---------|
-| 🎓 | **SQL: Data Reporting & Analysis** | LinkedIn Learning — Certified |
 | 🐍 | **Python Mastering Program** | Infosys — Certified |
 | 🤖 | **Machine Learning Fundamentals** | Analytics Vidhya & NVIDIA — Certified |
+| 🎓 | **SQL: Data Reporting & Analysis** | LinkedIn Learning — Certified |
 | 🌐 | **Web Development Certification** | FreeCodeCamp & Udemy — Certified |
 | ☁️ | **Cloud Computing Foundations** | Infosys Springboard — Certified |
-| 🟢 | **HackerRank Problem Solver** | [hakerrank.com/lokesh16215](https://www.hackerrank.com/profile/lokesh16215) |
-| 🟩 | **HackTheBox Active Member** | [@Lokesh16215](https://profile.hackthebox.com/Lokesh16215) — Cybersecurity challenges |
-| 🏅 | **10+ Technical Courses Completed** | Infosys Springboard — Web Dev, ML, Cloud, Communication |
+| 🟢 | **HackerRank Certified** | [lokesh16215](https://www.hackerrank.com/profile/lokesh16215) |
+| 🟩 | **HackTheBox Active Member** | [@Lokesh16215](https://profile.hackthebox.com/Lokesh16215) — Cybersecurity Challenges |
+| 🏅 | **10+ Technical Courses** | Infosys Springboard — ML, Cloud, DevOps, Communication |
 | 🌟 | **Multi-Platform Learner** | FreeCodeCamp · Udemy · NVIDIA · Unstop · LinkedIn Learning |
 
 </div>
@@ -261,13 +276,13 @@ print(me.motto())
 ## 🧠 Currently Learning
 
 ```
-🤖 Machine Learning     →  Regression · Classification · Neural Networks · Model Deployment
-☁️  Cloud Computing      →  AWS Fundamentals · GCP · Serverless Architecture
-📡 Computer Networking  →  TCP/IP · DNS · HTTP · Network Security · Protocols
-🌐 Full-Stack Web Dev   →  Flask · FastAPI · REST APIs · JavaScript
-🗄️  Databases            →  Advanced MySQL · MongoDB Aggregation · Query Optimisation
-🔐 Cybersecurity        →  HackTheBox Challenges · Ethical Hacking Fundamentals
-🚀 Startup Building     →  Product Design · Business Strategy · AI Integration
+🛠️  DevOps              →  CI/CD Pipelines · Docker · GitHub Actions · Jenkins
+☁️  Cloud Engineering   →  AWS · GCP · Serverless · Infrastructure as Code
+🐧 Linux Admin         →  Shell Scripting · System Admin · Networking · Security
+🤖 Data Science        →  Advanced ML · Neural Networks · MLOps · Model Deployment
+🗄️  Databases           →  Advanced MySQL · MongoDB Aggregation · Query Optimisation
+🔐 Cybersecurity       →  HackTheBox Challenges · Ethical Hacking Fundamentals
+🚀 Startup             →  Product Design · Business Strategy · AI + DevOps Integration
 ```
 
 ---
@@ -292,7 +307,7 @@ print(me.motto())
 </div>
 
 <div align="center">
-  <i>💬 "Learn by building. Build to impact." — Let's connect and build something amazing together! 🚀</i>
+  <i>💬 "Automate everything. Scale anything. Build to impact." 🚀</i>
 </div>
 
 <br/>
