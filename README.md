@@ -279,7 +279,7 @@ print(me.motto())
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://lokesh-b-0813.github.io/LokeshB-Portfolio/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-LOKESH__B0813-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/LOKESH_B0813/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-lokesh16215-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/lokesh16215)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Lokesh16215-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/Lokesh16215)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Lokesh16215-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]([https://profile.hackthebox.com/Lokesh16215](https://profile.hackthebox.com/Lokesh16215 (https://profile.hackthebox.com/profile/019d28be-e645-73e4-80a3-e2e0fa3eaeea))
 [![Gmail](https://img.shields.io/badge/Gmail-lokesh16215%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokesh16215@gmail.com)
 
 </div>
