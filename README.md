@@ -192,7 +192,7 @@ print(me.motto())
 ## 💼 Work Experience
 
 <details>
-  <summary>🏢 <strong>Infosys Springboard — Machine Learning Intern</strong> &nbsp;|&nbsp; Oct 2025 – Present &nbsp;|&nbsp; Remote</summary>
+  <summary>🏢 <strong>Infosys Springboard — Machine Learning Intern</strong> &nbsp;|&nbsp; Oct 2025 – Dec 2025 &nbsp;|&nbsp; Remote</summary>
   <br/>
 
   > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
